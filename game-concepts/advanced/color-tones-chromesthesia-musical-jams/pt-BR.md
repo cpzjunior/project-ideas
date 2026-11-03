@@ -2,7 +2,7 @@
 
 ## Conceito
 
-Um jogo narrativo musical inspirado na estética, na personalidade e na trajetória artística de Jimi Hendrix. O jogador assume o papel de um guitarrista cromestesista nos anos 1970, capaz de enxergar sons como cores, formas e movimentos. Para ele, cada nota possui uma identidade visual própria, e tocar guitarra é uma maneira de transformar a realidade ao seu redor.
+Um jogo narrativo musical inspirado na estética, na personalidade e na trajetória artística de Jimi Hendrix. O jogador assume o papel de um guitarrista cromestesista nos anos 1960, capaz de enxergar sons como cores, formas e movimentos. Para ele, cada nota possui uma identidade visual própria, e tocar guitarra é uma maneira de transformar a realidade ao seu redor.
 
 Vivendo como um músico independente, o protagonista precisa encontrar maneiras de pagar as contas enquanto tenta conquistar espaço no cenário musical. Entre apresentações em pequenos bares, trabalhos improvisados, encontros com outros artistas e oportunidades inesperadas, ele percorre uma jornada de descoberta artística e sobrevivência financeira.
 
@@ -28,6 +28,6 @@ Construir uma carreira musical independente, sobreviver financeiramente e desenv
 ## Referências
 
 - Jimi Hendrix
-- Psicodelia e contracultura dos anos 1970
+- Psicodelia e contracultura dos anos 1960
 - Cromestesia e sinestesia audiovisual
 - Jogos musicais e experiências de improvisação
