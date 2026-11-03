@@ -2,7 +2,7 @@
 
 ## Conceito
 
-Action RPG de fantasia sombria e surreal ambientado em um multiverso fragmentado, composto por planos de existência com características, leis físicas, civilizações e criaturas próprias.
+Action RPG de fantasia sombria e surreal ambientado em um multiverso fragmentado, composto por planos de existência organizados em uma estrutura cósmica inspirada no conceito da Grande Roda (Great Wheel). Cada plano possui características, leis físicas, civilizações e criaturas próprias, formando um conjunto de realidades interdependentes.
 
 O jogador assume o papel de um avatar divino criado por uma entidade primordial que governa a estrutura do multiverso. Desde sua criação, o protagonista possui um objetivo: atravessar os diferentes planos, reunir fragmentos de poder e enfrentar seu próprio criador para tomar seu lugar.
 
@@ -34,6 +34,7 @@ Atravessar os planos fragmentados do multiverso, enfrentar seus guardiões e ent
 
 ## Referências
 
+- Dungeons & Dragons: cosmologia da Grande Roda (Great Wheel) e organização dos planos de existência.
 - Dark Souls: combate desafiador, exploração interconectada, chefes memoráveis, progressão e narrativa ambiental.
 - Alice: Madness Returns: direção artística surrealista, mundos fantásticos, ambientes perturbadores e criatividade visual.
 - The Elder Scrolls: conceito de Mantling, transcendência de identidade e substituição de entidades divinas.
