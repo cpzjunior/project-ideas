@@ -2,17 +2,17 @@
 
 ## Conceito
 
-Jogo de aventura narrativa sobre reconstrução pessoal, no qual o jogador acompanha um jovem recluso que decide mudar de vida após um desabafo de sua mãe sobre seus hábitos autodestrutivos e o impacto que eles causam em sua família.
+Jogo de aventura narrativa sobre reconstrução pessoal, no qual o jogador acompanha um jovem hikikomori que vive isolado em seu quarto, afastado da sociedade e dependente da família para suas necessidades cotidianas. Após um desabafo de sua mãe sobre seus hábitos autodestrutivos e o impacto que seu isolamento causa na família, ele decide tentar mudar de vida, movido pelo amor aos familiares e pelo medo de perder completamente o controle da própria existência.
 
-Movido pelo amor à família e pelo medo de perder completamente o controle da própria vida, o protagonista inicia uma jornada gradual de recuperação da autonomia e da autoestima. Ao longo dessa trajetória, precisa enfrentar o isolamento, abandonar hábitos prejudiciais, recuperar responsabilidades e reconstruir sua relação com o mundo exterior.
+A jornada de recuperação começa com pequenas atitudes, como organizar o próprio quarto, estabelecer uma rotina, cuidar da higiene pessoal e recuperar responsabilidades básicas. Gradualmente, o protagonista precisa enfrentar o isolamento social, abandonar hábitos prejudiciais, superar o medo de sair de casa e reconstruir sua relação com o mundo exterior.
 
-O progresso acontece por meio de pequenas conquistas cotidianas, que gradualmente abrem novas possibilidades e permitem ao protagonista recuperar sua independência. Entretanto, a mudança não é linear: recaídas, frustrações e dificuldades pessoais podem interromper seu progresso, exigindo paciência e determinação para recomeçar.
+O progresso acontece de maneira gradual, com pequenas conquistas que abrem novas possibilidades e permitem recuperar autonomia e autoestima. Entretanto, a mudança não é linear: recaídas, frustrações, inseguranças e dificuldades pessoais podem interromper seu progresso, exigindo paciência e determinação para recomeçar.
 
-A narrativa acompanha essa transformação, mostrando como pequenas atitudes podem representar grandes avanços na reconstrução de uma vida.
+A narrativa acompanha a transformação do protagonista, mostrando como pequenos passos podem representar grandes avanços na reconstrução de uma vida.
 
 ## Objetivo
 
-Reconstruir gradualmente a vida do protagonista, superando o isolamento e os hábitos autodestrutivos, recuperando sua autonomia e autoestima e restabelecendo conexões com a família e o mundo exterior.
+Ajudar o protagonista a superar gradualmente sua condição de isolamento como hikikomori, reconstruindo sua autonomia, autoestima e independência, além de restabelecer seus vínculos familiares e sociais.
 
 ## Mecânicas principais
 
@@ -22,11 +22,12 @@ Reconstruir gradualmente a vida do protagonista, superando o isolamento e os há
 - Sistema de recaídas e dificuldades que podem interromper temporariamente o progresso.
 - Reconstrução da autonomia por meio da recuperação de responsabilidades e independência.
 - Desenvolvimento de relacionamentos familiares e reconexão com outras pessoas.
-- Exploração gradual de ambientes e atividades externas conforme o protagonista recupera confiança.
+- Exploração gradual de ambientes externos conforme o protagonista recupera confiança para sair de casa.
 - Sistema de autoestima e confiança influenciado pelas escolhas e conquistas do jogador.
 - Narrativa ramificada com consequências para as decisões e para a trajetória de recuperação do protagonista.
 
 ## Referências
 
+- Cultura hikikomori: isolamento social prolongado e afastamento da vida em sociedade.
 - Jogos de aventura narrativa: desenvolvimento de personagens e progressão baseada em escolhas.
 - Jogos de simulação de vida: rotinas, hábitos, responsabilidades e relacionamentos.
