@@ -123,60 +123,10 @@ Um modelo interessante seria combinar uma assinatura básica, que oferece determ
 
 Existem soluções no mercado que já implementam partes importantes dessa proposta. Elas servem como referências funcionais e competitivas para a concepção da plataforma.
 
-- AlphaSense: plataforma de inteligência de mercado que utiliza IA para pesquisar, analisar documentos, acompanhar empresas e identificar informações relevantes para decisões estratégicas.
-
-- Portend AI: referência em inteligência contínua de riscos, conectando informações públicas, regulatórias, comerciais e corporativas para identificar sinais emergentes e acompanhar riscos relacionados a organizações.&#x20;
-
-  [image](https://www.google.com/s2/favicons?domain=https://portend.ai\&sz=32)
-
-  Portend AI
-
-- Penlink: oferece recursos de investigação OSINT e inteligência investigativa. Seu CoAnalyst360 apresenta conceitos particularmente próximos da proposta, como contexto persistente, orquestração multiagente e acompanhamento de investigações.&#x20;
-
-  [image](https://www.google.com/s2/favicons?domain=https://www.penlink.com\&sz=32)
-
-  Penlink
-
-- Celsus Intelligence: referência em organização do ciclo investigativo, conectando pesquisa, evidências, relacionamentos, avaliações, monitoramento e relatórios em um ambiente governado.&#x20;
-
-  [image](https://www.google.com/s2/favicons?domain=https://www.celsus.one\&sz=32)
-
-  Turn information into intelligence.
-
-- Sentinela: solução brasileira voltada à due diligence e inteligência de risco, utilizando dados públicos, estruturas societárias, processos judiciais, sanções e mídia adversa.&#x20;
-
-  [image](https://www.google.com/s2/favicons?domain=https://sentinela.ai\&sz=32)
-
-  Sentinela
-
-- Intrace: reúne investigação OSINT, monitoramento de riscos, análise de relacionamentos e identificação de padrões em fontes abertas.&#x20;
-
-  [image](https://www.google.com/s2/favicons?domain=https://www.intrace.ai\&sz=32)
-
-  Intrace
-
-- Gartner: referência para compreender a categoria de Competitive and Market Intelligence Platforms, que reúne soluções de inteligência competitiva e de mercado.&#x20;
-
-  [image](https://www.google.com/s2/favicons?domain=https://www.gartner.com\&sz=32)
-
-  Gartner
-
-
-
-## Diferencial competitivo e posicionamento
-
-É importante destacar que a proposta não consiste simplesmente em criar mais uma ferramenta de OSINT, pesquisa com IA, inteligência competitiva ou monitoramento de riscos. Essas capacidades já existem em diferentes soluções de mercado.
-
-O diferencial está na organização dessas capacidades em torno de um novo elemento central: a investigação como um processo persistente e independente, que possui memória, objetivos, hipóteses, prioridades e capacidade de evolução.
-
-Essa concepção permite explorar algumas características importantes:
-
-1. Question-driven intelligence: a plataforma começa pela pergunta que precisa ser respondida, e não apenas por uma entidade que precisa ser monitorada.
-2. Persistent investigations: investigações mantêm seu estado e podem ser retomadas sem perda de contexto.
-3. Dynamic agent orchestration: agentes são alocados conforme a necessidade de cada investigação, em vez de permanecerem executando tarefas continuamente.
-4. Investigation ROI: a plataforma avalia o valor potencial de novas informações em relação ao custo de obtê-las.
-5. Organizational learning: o conhecimento acumulado e as correções dos usuários influenciam investigações futuras.
-6. Evidence-based intelligence: conclusões permanecem vinculadas às evidências, fontes e hipóteses que as sustentam.
-7. Continuous intelligence: uma conclusão não representa necessariamente o encerramento definitivo da investigação, pois novas informações podem alterar o cenário.
-
-Do ponto de vista de posicionamento, a plataforma poderia ser apresentada como uma solução de Continuous Investigative Intelligence, uma camada de inteligência que conecta fontes de informação, mecanismos de IA, conhecimento organizacional e processos decisórios.
+- AlphaSense: plataforma de inteligência de mercado que utiliza IA para pesquisar, analisar documentos, acompanhar empresas e identificar informações relevantes para decisões estratégicas;
+- Portend AI: referência em inteligência contínua de riscos, conectando informações públicas, regulatórias, comerciais e corporativas para identificar sinais emergentes e acompanhar riscos relacionados a organizações;
+- Penlink: oferece recursos de investigação OSINT e inteligência investigativa. Seu CoAnalyst360 apresenta conceitos particularmente próximos da proposta, como contexto persistente, orquestração multiagente e acompanhamento de investigações;
+- Celsus Intelligence: referência em organização do ciclo investigativo, conectando pesquisa, evidências, relacionamentos, avaliações, monitoramento e relatórios em um ambiente governado;
+- Sentinela: solução brasileira voltada à due diligence e inteligência de risco, utilizando dados públicos, estruturas societárias, processos judiciais, sanções e mídia adversa;
+- Intrace: reúne investigação OSINT, monitoramento de riscos, análise de relacionamentos e identificação de padrões em fontes abertas;
+- Gartner: referência para compreender a categoria de Competitive and Market Intelligence Platforms, que reúne soluções de inteligência competitiva e de mercado.
