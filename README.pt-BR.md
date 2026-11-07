@@ -1,5 +1,9 @@
-Uma coletânea de ideias, conceitos e propostas de projetos em diversos domínios.
+| 🇺🇸 [en](README.md) | 🇧🇷 [pt-BR](README.pt-BR.md) |
+|---|---|
 
+# Ideias de Projetos
+
+Uma coletânea de ideias, conceitos e propostas de projetos em diversos domínios.
 
 ## Idiomas
 
