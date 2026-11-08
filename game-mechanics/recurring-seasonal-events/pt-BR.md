@@ -1,4 +1,4 @@
-# Eventos Sazonais Recorrentes: Um Calendário Social Vivo
+# Eventos Sazonais Recorrentes
 
 ## Descrição
 
