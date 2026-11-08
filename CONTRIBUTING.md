@@ -1,3 +1,5 @@
+🇺🇸 [English](CONTRIBUTING.md) | 🇧🇷 [Português](CONTRIBUTING.pt-BR.md)
+
 # Contributing
 
 Thank you for your interest in contributing to Project Ideas!
