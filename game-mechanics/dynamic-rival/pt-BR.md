@@ -1,4 +1,4 @@
-# Rival Dinâmico: Um Segundo Protagonista
+# Rival Dinâmico
 
 ## Descrição
 
