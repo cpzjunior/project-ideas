@@ -1,4 +1,4 @@
-# Contextual Dialogue System: Intent, Tone & Consequences
+# Contextual Dialogue System
 
 ## Descrição
 
