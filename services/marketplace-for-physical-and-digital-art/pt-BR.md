@@ -14,11 +14,11 @@ Além da venda de obras existentes, a plataforma permite solicitar criações pe
 
 A plataforma pode contemplar diferentes modalidades:
 
-- **Artes físicas:** pinturas, desenhos, esculturas, fotografias, artesanatos e outras obras materiais.
-- **Artes digitais:** ilustrações, artes conceituais, animações, fotografias digitais e outras criações eletrônicas.
-- **Encomendas personalizadas:** solicitação de obras exclusivas desenvolvidas conforme as especificações do cliente.
-- **Obras colecionáveis:** comercialização de peças limitadas, numeradas ou com certificados de autenticidade.
-- **Propriedade digital:** possibilidade de utilizar tecnologias como NFTs para registrar autenticidade, titularidade e histórico de comercialização de determinadas obras.
+- Artes físicas: pinturas, desenhos, esculturas, fotografias, artesanatos e outras obras materiais.
+- Artes digitais: ilustrações, artes conceituais, animações, fotografias digitais e outras criações eletrônicas.
+- Encomendas personalizadas: solicitação de obras exclusivas desenvolvidas conforme as especificações do cliente.
+- Obras colecionáveis: comercialização de peças limitadas, numeradas ou com certificados de autenticidade.
+- Propriedade digital: possibilidade de utilizar tecnologias como NFTs para registrar autenticidade, titularidade e histórico de comercialização de determinadas obras.
 
 A plataforma também pode oferecer recursos de avaliação de artistas, acompanhamento de pedidos, pagamentos intermediados e mecanismos de proteção para compradores e vendedores.
 
