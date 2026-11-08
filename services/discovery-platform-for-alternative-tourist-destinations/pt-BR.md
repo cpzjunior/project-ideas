@@ -16,13 +16,13 @@ Com base nessas informações, o aplicativo recomenda destinos alternativos e ap
 
 A plataforma pode contemplar diferentes funcionalidades:
 
-- **Destinos alternativos:** apresentação de cidades, regiões e atrações turísticas pouco conhecidas.
-- **Recomendações personalizadas:** sugestões baseadas nos interesses, orçamento e perfil do viajante.
-- **Roteiros diferenciados:** itinerários que combinam destinos e experiências fora dos circuitos tradicionais.
-- **Pacotes de viagem:** possibilidade de encontrar ou contratar pacotes relacionados aos destinos recomendados.
-- **Conteúdo turístico:** fotografias, vídeos, relatos de viajantes e guias sobre os locais.
-- **Exploração por categorias:** viagens culturais, gastronômicas, históricas, naturais, rurais, aventureiras e outras experiências.
-- **Comunidade:** possibilidade de compartilhar experiências, avaliações e recomendações de destinos.
+- Destinos alternativos: apresentação de cidades, regiões e atrações turísticas pouco conhecidas.
+- Recomendações personalizadas: sugestões baseadas nos interesses, orçamento e perfil do viajante.
+- Roteiros diferenciados: itinerários que combinam destinos e experiências fora dos circuitos tradicionais.
+- Pacotes de viagem: possibilidade de encontrar ou contratar pacotes relacionados aos destinos recomendados.
+- Conteúdo turístico: fotografias, vídeos, relatos de viajantes e guias sobre os locais.
+- Exploração por categorias: viagens culturais, gastronômicas, históricas, naturais, rurais, aventureiras e outras experiências.
+- Comunidade: possibilidade de compartilhar experiências, avaliações e recomendações de destinos.
 
 ## Aplicações
 
