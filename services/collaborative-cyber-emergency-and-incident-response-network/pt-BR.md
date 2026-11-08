@@ -6,7 +6,7 @@ Rede colaborativa que conecta empresas, instituições financeiras, fornecedores
 
 A proposta é permitir que uma organização que identifique um incidente cibernético relevante consiga acionar rapidamente seus próprios mecanismos de resposta e, quando necessário, alertar outras organizações potencialmente afetadas, reduzindo o tempo de reação e limitando a propagação de ataques e os prejuízos financeiros decorrentes.
 
-O conceito parte de um mecanismo simples: cada organização possui seu próprio **Panic Button**, integrado aos seus sistemas e processos de segurança. Quando acionado, ele envia uma mensagem padronizada que pode ser utilizada internamente pela própria organização ou encaminhada à rede para comunicação com outros participantes.
+O conceito parte de um mecanismo simples: cada organização possui seu próprio Panic Button, integrado aos seus sistemas e processos de segurança. Quando acionado, ele envia uma mensagem padronizada que pode ser utilizada internamente pela própria organização ou encaminhada à rede para comunicação com outros participantes.
 
 A utilização não depende necessariamente do compartilhamento externo. Caso o incidente esteja restrito à organização que o identificou e não represente risco para outras empresas, o alerta pode ser utilizado exclusivamente para acionar seus sistemas, equipes e procedimentos internos de emergência.
 
@@ -14,7 +14,7 @@ Quando houver potencial impacto sobre terceiros, a rede permite que a notificaç
 
 Cada organização participante mantém autonomia sobre seus sistemas, dados e procedimentos de resposta. Ao receber um alerta, pode executar suas próprias ações previamente autorizadas, como bloquear operações, restringir acessos, suspender integrações, aumentar controles de autenticação ou iniciar procedimentos de contingência.
 
-Mais do que uma plataforma de compartilhamento de informações sobre ameaças, a proposta é estabelecer uma **rede de emergência cibernética**, capaz de transformar a comunicação entre organizações em uma resposta coordenada e praticamente imediata.
+Mais do que uma plataforma de compartilhamento de informações sobre ameaças, a proposta é estabelecer uma rede de emergência cibernética, capaz de transformar a comunicação entre organizações em uma resposta coordenada e praticamente imediata.
 
 O objetivo é reduzir o intervalo entre a identificação de um ataque e a adoção de medidas defensivas, diminuindo a janela de oportunidade dos atacantes para realizar fraudes, movimentar recursos financeiros ou comprometer outras empresas da cadeia de relacionamento.
 
@@ -28,8 +28,8 @@ Quando uma organização identifica uma situação que justifique uma resposta e
 
 O acionamento pode ter dois alcances:
 
-* **Acionamento interno:** quando o incidente está restrito à própria organização ou não representa risco identificado para terceiros, o alerta é utilizado exclusivamente para acionar os sistemas, equipes e processos internos de resposta. Nesse caso, nenhuma outra organização precisa ser notificada.
-* **Acionamento colaborativo:** quando o incidente pode afetar outras organizações, o alerta é encaminhado à rede, que identifica os participantes potencialmente impactados e distribui a notificação de forma automatizada.
+* Acionamento interno: quando o incidente está restrito à própria organização ou não representa risco identificado para terceiros, o alerta é utilizado exclusivamente para acionar os sistemas, equipes e processos internos de resposta. Nesse caso, nenhuma outra organização precisa ser notificada.
+* Acionamento colaborativo: quando o incidente pode afetar outras organizações, o alerta é encaminhado à rede, que identifica os participantes potencialmente impactados e distribui a notificação de forma automatizada.
 
 A rede recebe os alertas destinados ao compartilhamento, valida sua origem e aplica as regras de distribuição para identificar quais participantes devem ser notificados. O objetivo é que a informação alcance rapidamente as organizações que possam sofrer consequências daquele incidente.
 
@@ -39,21 +39,21 @@ A rede não precisa ter acesso aos sistemas internos das organizações nem exec
 
 A solução pode oferecer funcionalidades como:
 
-* **Panic Button organizacional:** mecanismo próprio de cada participante para comunicar uma emergência, acionando seus procedimentos internos e, quando aplicável, enviando um alerta à rede.
-* **Protocolo padronizado de emergência:** definição de um formato comum para comunicação de incidentes, permitindo que organizações diferentes interpretem e processem os alertas automaticamente.
-* **Distribuição inteligente de alertas:** encaminhamento das notificações às organizações potencialmente afetadas, considerando relações comerciais, operacionais, financeiras e tecnológicas.
-* **Rede de relacionamentos empresariais:** representação das conexões entre participantes, permitindo identificar fornecedores, clientes, parceiros, instituições financeiras e prestadores de serviços que possam ser impactados por um incidente.
-* **Notificações em tempo real:** comunicação automatizada entre os participantes, com objetivo de reduzir o tempo entre a identificação do incidente e o recebimento do alerta.
-* **Resposta automatizada local:** possibilidade de cada organização configurar previamente ações que seus próprios sistemas podem executar após receber determinados tipos de alerta.
-* **Classificação de emergências:** categorização dos alertas por tipo de incidente, severidade, criticidade, abrangência e nível de confiança da informação.
-* **Confirmação de recebimento:** registro de que uma organização recebeu e processou determinada notificação, permitindo acompanhar a disseminação do alerta.
-* **Acompanhamento da resposta:** possibilidade de informar que uma organização iniciou medidas de contenção, mitigação ou investigação, respeitando suas políticas de confidencialidade.
-* **Autenticação e confiança entre participantes:** mecanismos para assegurar que os alertas sejam originados por organizações legítimas e que sua distribuição respeite as regras de participação da rede.
-* **Compartilhamento controlado de informações:** possibilidade de incluir indicadores técnicos, evidências e informações complementares sobre o incidente, respeitando níveis de confidencialidade e critérios de acesso.
-* **Histórico de incidentes e notificações:** registro das emergências comunicadas, organizações notificadas, confirmações recebidas e resultados das ações de resposta, conforme as políticas de retenção e confidencialidade.
-* **Indicadores de eficiência da rede:** acompanhamento de métricas como tempo de distribuição, tempo de confirmação, tempo até a contenção e abrangência dos alertas.
-* **Governança colaborativa:** definição de regras comuns de participação, responsabilidades, níveis de confiança, tratamento de informações e utilização da rede.
-* **Integração institucional:** possibilidade de estabelecer relacionamento com entidades reguladoras, associações setoriais, instituições financeiras e organizações especializadas em resposta a incidentes cibernéticos.
+* Panic Button organizacional: mecanismo próprio de cada participante para comunicar uma emergência, acionando seus procedimentos internos e, quando aplicável, enviando um alerta à rede.
+* Protocolo padronizado de emergência: definição de um formato comum para comunicação de incidentes, permitindo que organizações diferentes interpretem e processem os alertas automaticamente.
+* Distribuição inteligente de alertas: encaminhamento das notificações às organizações potencialmente afetadas, considerando relações comerciais, operacionais, financeiras e tecnológicas.
+* Rede de relacionamentos empresariais: representação das conexões entre participantes, permitindo identificar fornecedores, clientes, parceiros, instituições financeiras e prestadores de serviços que possam ser impactados por um incidente.
+* Notificações em tempo real: comunicação automatizada entre os participantes, com objetivo de reduzir o tempo entre a identificação do incidente e o recebimento do alerta.
+* Resposta automatizada local: possibilidade de cada organização configurar previamente ações que seus próprios sistemas podem executar após receber determinados tipos de alerta.
+* Classificação de emergências: categorização dos alertas por tipo de incidente, severidade, criticidade, abrangência e nível de confiança da informação.
+* Confirmação de recebimento: registro de que uma organização recebeu e processou determinada notificação, permitindo acompanhar a disseminação do alerta.
+* Acompanhamento da resposta: possibilidade de informar que uma organização iniciou medidas de contenção, mitigação ou investigação, respeitando suas políticas de confidencialidade.
+* Autenticação e confiança entre participantes: mecanismos para assegurar que os alertas sejam originados por organizações legítimas e que sua distribuição respeite as regras de participação da rede.
+* Compartilhamento controlado de informações: possibilidade de incluir indicadores técnicos, evidências e informações complementares sobre o incidente, respeitando níveis de confidencialidade e critérios de acesso.
+* Histórico de incidentes e notificações: registro das emergências comunicadas, organizações notificadas, confirmações recebidas e resultados das ações de resposta, conforme as políticas de retenção e confidencialidade.
+* Indicadores de eficiência da rede: acompanhamento de métricas como tempo de distribuição, tempo de confirmação, tempo até a contenção e abrangência dos alertas.
+* Governança colaborativa: definição de regras comuns de participação, responsabilidades, níveis de confiança, tratamento de informações e utilização da rede.
+* Integração institucional: possibilidade de estabelecer relacionamento com entidades reguladoras, associações setoriais, instituições financeiras e organizações especializadas em resposta a incidentes cibernéticos.
 
 Um exemplo de utilização seria uma instituição financeira identificar uma invasão em um fornecedor que possui integração com diversos bancos.
 
@@ -92,16 +92,16 @@ A rede pode envolver:
 
 A solução pode ser utilizada em diferentes contextos:
 
-* **Resposta interna a incidentes:** acionamento rápido de equipes, sistemas e procedimentos internos de emergência, mesmo quando o incidente não afeta outras organizações.
-* **Instituições financeiras:** comunicação rápida de incidentes que possam comprometer operações financeiras, integrações, transações, sistemas ou relacionamentos com terceiros.
-* **Prevenção de fraudes financeiras:** disseminação de alertas sobre ataques e comprometimentos que possam ser utilizados para realizar transferências fraudulentas, desviar pagamentos ou explorar relacionamentos entre instituições.
-* **Proteção de cadeias de fornecimento:** notificação de clientes e parceiros quando um fornecedor ou prestador de serviço sofrer um comprometimento que possa afetar outras organizações.
-* **Proteção de ambientes corporativos:** comunicação de incidentes que envolvam credenciais, acessos, aplicações, infraestrutura ou serviços compartilhados.
-* **Empresas de tecnologia:** notificação de clientes sobre incidentes que possam afetar serviços, plataformas, ambientes hospedados ou integrações.
-* **Grandes grupos empresariais:** coordenação de respostas entre subsidiárias, unidades de negócio, fornecedores e parceiros.
-* **Operações críticas:** comunicação de emergências cibernéticas em setores como energia, telecomunicações, saúde, transportes e infraestrutura.
-* **Cooperação entre instituições financeiras:** criação de um mecanismo de comunicação emergencial que complemente os processos existentes de compartilhamento de informações sobre incidentes e fraudes.
-* **Coordenação nacional:** possibilidade de conectar diferentes setores econômicos em uma rede colaborativa de resposta a emergências cibernéticas.
+* Resposta interna a incidentes: acionamento rápido de equipes, sistemas e procedimentos internos de emergência, mesmo quando o incidente não afeta outras organizações.
+* Instituições financeiras: comunicação rápida de incidentes que possam comprometer operações financeiras, integrações, transações, sistemas ou relacionamentos com terceiros.
+* Prevenção de fraudes financeiras: disseminação de alertas sobre ataques e comprometimentos que possam ser utilizados para realizar transferências fraudulentas, desviar pagamentos ou explorar relacionamentos entre instituições.
+* Proteção de cadeias de fornecimento: notificação de clientes e parceiros quando um fornecedor ou prestador de serviço sofrer um comprometimento que possa afetar outras organizações.
+* Proteção de ambientes corporativos: comunicação de incidentes que envolvam credenciais, acessos, aplicações, infraestrutura ou serviços compartilhados.
+* Empresas de tecnologia: notificação de clientes sobre incidentes que possam afetar serviços, plataformas, ambientes hospedados ou integrações.
+* Grandes grupos empresariais: coordenação de respostas entre subsidiárias, unidades de negócio, fornecedores e parceiros.
+* Operações críticas: comunicação de emergências cibernéticas em setores como energia, telecomunicações, saúde, transportes e infraestrutura.
+* Cooperação entre instituições financeiras: criação de um mecanismo de comunicação emergencial que complemente os processos existentes de compartilhamento de informações sobre incidentes e fraudes.
+* Coordenação nacional: possibilidade de conectar diferentes setores econômicos em uma rede colaborativa de resposta a emergências cibernéticas.
 
 Do ponto de vista institucional, existe a possibilidade de envolver o Banco Central do Brasil, especialmente na discussão de mecanismos de cooperação e resposta a incidentes no sistema financeiro nacional.
 
@@ -113,14 +113,14 @@ A visão de longo prazo é construir uma infraestrutura colaborativa de interess
 
 A iniciativa pode explorar diferentes modelos de monetização, considerando que a construção da rede depende da participação de múltiplas organizações e da geração de confiança entre os participantes.
 
-* **Assinatura institucional:** cobrança de uma assinatura periódica das organizações participantes, considerando porte, criticidade e volume de relacionamentos.
-* **Planos corporativos:** planos diferenciados conforme a quantidade de conexões, unidades de negócio, integrações e recursos de comunicação utilizados.
-* **Serviços de integração:** cobrança pela implantação e integração do mecanismo de emergência aos sistemas e processos de cada organização.
-* **Serviços de governança e conformidade:** oferta de serviços relacionados à adesão à rede, validação institucional, políticas de participação e atendimento a requisitos de governança.
-* **Inteligência e indicadores agregados:** disponibilização de relatórios e indicadores estatísticos sobre incidentes, padrões de ocorrência e eficiência da rede, respeitando a confidencialidade das informações.
-* **Serviços de resposta e coordenação:** oferta de serviços complementares para apoiar organizações na estruturação de seus processos de resposta a emergências.
-* **Licenciamento institucional:** possibilidade de licenciar a iniciativa para associações setoriais, consórcios empresariais ou entidades que desejem estabelecer redes próprias de emergência.
-* **Parcerias institucionais:** possibilidade de financiamento, patrocínio ou cooperação com entidades setoriais e organizações interessadas em fortalecer a resiliência cibernética de determinado segmento.
+* Assinatura institucional: cobrança de uma assinatura periódica das organizações participantes, considerando porte, criticidade e volume de relacionamentos.
+* Planos corporativos: planos diferenciados conforme a quantidade de conexões, unidades de negócio, integrações e recursos de comunicação utilizados.
+* Serviços de integração: cobrança pela implantação e integração do mecanismo de emergência aos sistemas e processos de cada organização.
+* Serviços de governança e conformidade: oferta de serviços relacionados à adesão à rede, validação institucional, políticas de participação e atendimento a requisitos de governança.
+* Inteligência e indicadores agregados: disponibilização de relatórios e indicadores estatísticos sobre incidentes, padrões de ocorrência e eficiência da rede, respeitando a confidencialidade das informações.
+* Serviços de resposta e coordenação: oferta de serviços complementares para apoiar organizações na estruturação de seus processos de resposta a emergências.
+* Licenciamento institucional: possibilidade de licenciar a iniciativa para associações setoriais, consórcios empresariais ou entidades que desejem estabelecer redes próprias de emergência.
+* Parcerias institucionais: possibilidade de financiamento, patrocínio ou cooperação com entidades setoriais e organizações interessadas em fortalecer a resiliência cibernética de determinado segmento.
 
 O modelo de negócio pode gerar valor mesmo para organizações que utilizem a solução exclusivamente de forma interna. Nesse caso, a assinatura oferece um mecanismo padronizado de acionamento emergencial e integração com os processos internos de resposta.
 
@@ -138,23 +138,23 @@ Enquanto iniciativas tradicionais de segurança cibernética se concentram em co
 
 Os principais diferenciais são:
 
-* **Utilização independente da rede:** cada organização pode utilizar o Panic Button para acionar seus procedimentos internos, mesmo sem compartilhar o incidente com terceiros.
-* **Velocidade de resposta:** redução do tempo entre a identificação de um incidente e a comunicação às organizações potencialmente afetadas.
-* **Coordenação entre organizações:** comunicação estruturada entre empresas que possuem relações comerciais, financeiras, operacionais ou tecnológicas.
-* **Automação da reação:** possibilidade de cada participante executar suas próprias medidas de proteção a partir de alertas recebidos.
-* **Autonomia institucional:** cada organização mantém o controle de seus sistemas, dados, políticas e decisões de resposta.
-* **Abrangência multissetorial:** possibilidade de conectar instituições financeiras, empresas privadas, fornecedores de tecnologia e órgãos públicos.
-* **Efeito de rede:** quanto maior a participação de organizações relevantes, maior a capacidade de disseminação de alertas e de proteção coletiva.
-* **Foco em contenção:** prioridade em reduzir a janela de oportunidade dos atacantes e limitar a extensão dos prejuízos, e não apenas informar que um incidente aconteceu.
+* Utilização independente da rede: cada organização pode utilizar o Panic Button para acionar seus procedimentos internos, mesmo sem compartilhar o incidente com terceiros.
+* Velocidade de resposta: redução do tempo entre a identificação de um incidente e a comunicação às organizações potencialmente afetadas.
+* Coordenação entre organizações: comunicação estruturada entre empresas que possuem relações comerciais, financeiras, operacionais ou tecnológicas.
+* Automação da reação: possibilidade de cada participante executar suas próprias medidas de proteção a partir de alertas recebidos.
+* Autonomia institucional: cada organização mantém o controle de seus sistemas, dados, políticas e decisões de resposta.
+* Abrangência multissetorial: possibilidade de conectar instituições financeiras, empresas privadas, fornecedores de tecnologia e órgãos públicos.
+* Efeito de rede: quanto maior a participação de organizações relevantes, maior a capacidade de disseminação de alertas e de proteção coletiva.
+* Foco em contenção: prioridade em reduzir a janela de oportunidade dos atacantes e limitar a extensão dos prejuízos, e não apenas informar que um incidente aconteceu.
 
 A proposta não elimina a possibilidade de um ataque bem-sucedido nem garante que todas as perdas financeiras sejam evitadas. Seu propósito é reduzir o tempo de reação individual e coletiva, limitando a capacidade de um atacante explorar o incidente na própria organização ou em outras empresas.
 
 ## Referências
 
-* **CERT.br:** referência nacional em tratamento de incidentes de segurança, coordenação e compartilhamento de informações com a comunidade.
-* **FS-ISAC:** organização internacional de compartilhamento de informações e colaboração em segurança cibernética voltada ao setor de serviços financeiros.
-* **Banco Central do Brasil:** referência institucional e regulatória para o compartilhamento de informações sobre incidentes relevantes e fraudes no sistema financeiro.
-* **MISP:** plataforma de compartilhamento de informações sobre ameaças e indicadores de comprometimento, utilizada por comunidades de segurança.
-* **FIRST:** organização internacional que reúne equipes de resposta a incidentes de segurança e promove colaboração entre elas.
+* CERT.br: referência nacional em tratamento de incidentes de segurança, coordenação e compartilhamento de informações com a comunidade.
+* FS-ISAC: organização internacional de compartilhamento de informações e colaboração em segurança cibernética voltada ao setor de serviços financeiros.
+* Banco Central do Brasil: referência institucional e regulatória para o compartilhamento de informações sobre incidentes relevantes e fraudes no sistema financeiro.
+* MISP: plataforma de compartilhamento de informações sobre ameaças e indicadores de comprometimento, utilizada por comunidades de segurança.
+* FIRST: organização internacional que reúne equipes de resposta a incidentes de segurança e promove colaboração entre elas.
 
 Essas iniciativas servem como referências e possíveis complementos ao conceito. A proposta de valor específica da rede está na combinação de acionamento emergencial interno, comunicação orientada pelos relacionamentos entre organizações e possibilidade de desencadear respostas locais coordenadas.
