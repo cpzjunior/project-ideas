@@ -12,7 +12,7 @@ E um dia, essa verdade se revelaria.
 
 ## Ato 1: O Início da Jornada
 
-Capítulo 1: A Luta Diária pela Sobrevivência
+### Capítulo 1: A Luta Diária pela Sobrevivência
 
 A fome foi sua primeira professora. O medo, seu companheiro mais leal.
 
@@ -26,7 +26,7 @@ O destino, entretanto, não costuma ser gentil com aqueles que ousam desejar. Em
 
 Até que um estranho se aproxima.
 
-Capítulo 2: Uma Oportunidade Surge
+### Capítulo 2: Uma Oportunidade Surge
 
 Entre os mercadores de Ravencourt, Garrick Thorne não era um nome qualquer. Ele controlava rotas de comércio, dominava negócios lucrativos e mantinha uma rede de informações tão afiada quanto uma lâmina. Seu império comercial não se limitava a moedas e contratos; ele compreendia a importância do poder bruto. E para isso, mantinha sua própria milícia privada—homens treinados, leais apenas a ele.
 
@@ -48,7 +48,7 @@ A partir daquele dia, o jovem aprendeu que o verdadeiro poder não vinha da lâm
 
 A vida de Eldrin mudava, mas uma pergunta ainda ecoava em sua mente: "Até onde estou disposto a ir para construir meu próprio destino?"
 
-Capítulo 3: O Mercador de Fernholm
+### Capítulo 3: O Mercador de Fernholm
 
 Os anos passaram, e Eldrin não era mais um garoto perdido em Ravencourt. Ele havia construído sua própria fortuna, fundando uma oficina próspera na cidade de Fernholm. Suas mãos, que antes roubavam pão para sobreviver, agora negociavam metais preciosos e contratos lucrativos. Seu nome já era murmurado em salões onde antes jamais seria permitido entrar.
 
@@ -64,7 +64,7 @@ Mas uma pergunta ainda assombrava sua alma: "Será que sou eu quem controla o jo
 
 ## Ato 2: Ascensão Social
 
-Capítulo 4: O Sequestro da Filha do Duque
+### Capítulo 4: O Sequestro da Filha do Duque
 
 Na noite em que o caos desceu sobre Fernholm, Eldrin enfrentou seu maior teste até então. Elyana Valmont, filha do Duque Armand, foi capturada por conspiradores que buscavam enfraquecer a influência de sua família. Cercado por assassinos e mercenários, Eldrin não hesitou: usando sua astúcia e ferocidade, atravessou a escuridão da cidade como uma sombra, desmantelando seus inimigos com precisão mortal.
 
@@ -72,7 +72,7 @@ A fuga foi desesperada. Cavalgando através dos bosques sob a luz pálida da lua
 
 Diante do feito heroico, o Duque Armand Valmont ofereceu-lhe uma recompensa. Eldrin, com sua visão sempre voltada para o futuro, percebeu que aquela era a oportunidade de sua vida – e fez seu pedido.
 
-Capítulo 5: O Barão de Eldermere
+### Capítulo 5: O Barão de Eldermere
 
 Eldrin não pediu ouro, nem terras férteis. Ele pediu um domínio que ninguém queria – Eldermere, uma terra arruinada, esquecida pelos nobres e assolada pela miséria. O Duque, intrigado pela ousadia, concedeu-lhe o título de Barão.
 
@@ -82,7 +82,7 @@ A transição de mercador para nobre foi abrupta. Os salões da aristocracia sus
 
 Com punho firme e mente calculista, iniciou sua obra. Aos que foram desprezados pela nobreza, ele ofereceu trabalho e proteção. Aos que tentaram desafiá-lo, respondeu com aço e estratégia. Eldermere começava a despertar.
 
-Capítulo 6: O Polo Comercial do Sul
+### Capítulo 6: O Polo Comercial do Sul
 
 Eldermere era mais do que um pedaço de terra devastado – era a chave para o comércio de toda a região sul. Situada em um ponto estratégico, a cidade poderia se tornar um farol para mercadores e viajantes. Mas antes, Eldrin precisava enfrentar o verdadeiro inimigo: o caos.
 
@@ -100,7 +100,7 @@ O Duque decidiu observá-lo mais de perto. Para alguns, isso significava uma bê
 
 ## Ato 3: A Guerra e a Ascensão Militar
 
-Capítulo 7: Rumores de Guerra
+### Capítulo 7: Rumores de Guerra
 
 A guerra novamente chega a Althoria quando o Reino de Ostgard invade suas fronteiras, ameaçando a estabilidade da nação. Eldrin sabia que isso aconteceria mais cedo ou mais tarde, pois os dois reinos eram rivais históricos e irreconciliáveis. Durante a reconstrução da cidade, ele já havia tomado providências para melhorar suas defesas.
 
@@ -114,7 +114,7 @@ Quando os rumores da guerra se tornaram realidade, Eldermere estava na linha de 
 
 Eldrin era um líder militar improvável, mas sua inteligência e determinação começaram a inspirar o povo. No entanto, em meio às responsabilidades crescentes e a batalhas iminentes, ele se questionava: "Será que estou realmente preparado para isso?"
 
-Capítulo 8: A Batalha Sangrenta
+### Capítulo 8: A Batalha Sangrenta
 
 O cerco foi brutal. Tropas ostgardianas atacaram Eldermere com fúria implacável, testando cada fortificação que Eldrin ergueu. Os portões resistiram, os muros sustentaram os impactos, mas a batalha cobrou seu preço.
 
@@ -130,7 +130,7 @@ Apesar da vitória, Eldrin não conseguiu salvar a todos. O Conde Renault D’Or
 
 A dor e a devastação marcaram Fernholm, mas também solidificaram a reputação de Eldrin. Seu nome começou a se espalhar entre o povo, que o via como um herói da nação.
 
-Capítulo 9: O Novo Conde
+### Capítulo 9: O Novo Conde
 
 A vitória trouxe consequências inesperadas. O Duque Armand, reconhecendo o talento de Eldrin, recompensou-o com o título de Conde de Fernholm, uma decisão que gerou celebração e revolta em igual medida.
 
@@ -146,7 +146,7 @@ Além disso, a ambição do Duque começava a se transformar em algo mais sombri
 
 ## Ato 4: Unificação e o Império Reconstruído
 
-Capítulo 10: A Luta pela Coroa Imperial
+### Capítulo 10: A Luta pela Coroa Imperial
 
 Os tambores da guerra ressoavam pelos campos devastados, enquanto Althoria e Ostgard mediam forças uma vez mais. Mas, desta vez, não era apenas uma disputa territorial. O Duque Armand enxergava o destino com olhos de ferro: a coroa imperial deveria ser sua. O velho império jazia em ruínas, mas ele estava determinado a forjá-lo novamente no cadinho da guerra.
 
@@ -156,7 +156,7 @@ Nos salões aristocráticos, as alianças se desfaziam e se erguiam como castelo
 
 E enquanto a marcha inexorável da guerra se intensificava, uma dúvida corroía Eldrin: vale a pena lutar por esta coroa? Ou ele estava apenas alimentando um ciclo sem fim de destruição e ambição?
 
-Capítulo 11: O Braço Direito do Duque
+### Capítulo 11: O Braço Direito do Duque
 
 A tempestade de ferro e sangue varria os reinos dissidentes. Com cada cidade conquistada, Eldrin via sua própria lenda crescer. Ostgard tombou, seguida de outros territórios, mas a glória vinha acompanhada de um custo terrível. As terras ardiam, os lares eram desfeitos, e a sombra da destruição se estendia sobre o que um dia poderia ser chamado de império.
 
@@ -168,7 +168,7 @@ Nesse turbilhão, Elyana tornava-se um refúgio e um perigo. O desejo entre eles
 
 A cada batalha vencida, a cada intriga desmantelada, a pergunta pairava sobre ele: ele permaneceria sendo a espada de Armand ou traçaria seu próprio destino?
 
-Capítulo 12: A Conquista da Antiga Capital
+### Capítulo 12: A Conquista da Antiga Capital
 
 A batalha final rugia nos portões da antiga capital. A cidade, outrora coração do Império, resistia como um titã ferido, mas Eldrin e suas legiões eram implacáveis. As muralhas que haviam testemunhado a ascensão e a queda de dinastias agora tombavam sob o avanço impiedoso das hostes althorianas.
 
@@ -182,7 +182,7 @@ Ele se perguntava, enquanto a cidade celebrava a restauração do império: o qu
 
 ## Ato 5: Intrigas e Traição
 
-Capítulo 13: A Sombra da Conspiração
+### Capítulo 13: A Sombra da Conspiração
 
 O brilho da glória que Eldrin conquistou começa a se apagar diante da escuridão da política e das traições. A nobreza tradicional, humilhada por sua ascensão meteórica, conspira nas sombras, tecendo redes de intriga que ameaçam sufocá-lo. O império que ele ajudou a erguer agora se torna seu maior inimigo.
 
@@ -190,7 +190,7 @@ Rumores venenosos se espalham pelas cortes, e alianças que pareciam sólidas co
 
 A paranoia cresce como um veneno em sua mente. Pela primeira vez, Eldrin percebe que espadas afiadas e exércitos leais não são armas suficientes para vencer essa guerra invisível.
 
-Capítulo 14: A Falsa Acusação
+### Capítulo 14: A Falsa Acusação
 
 A traição atinge seu auge quando uma acusação devastadora é lançada contra Eldrin: ele estaria conspirando para derrubar o Imperador Armand I. A prova? Cartas forjadas, testemunhos comprados e aliados silenciados pela força ou pelo medo. A nobreza finalmente encontrou sua oportunidade de se livrar do plebeu que ousou usurpar seu espaço.
 
@@ -206,7 +206,7 @@ Na calada da noite, subornos trocam de mãos, guardas são afastados, e uma rede
 
 Agora, sem título, sem terras e com sua honra manchada, ele se vê novamente no início — um fugitivo sem um lugar ao qual pertencer. Mas uma pergunta ecoa em sua mente: “Posso ser mais do que isso? Ou sou apenas um reflexo das circunstâncias que me moldaram?”
 
-Capítulo 15: A Vida no Exílio
+### Capítulo 15: A Vida no Exílio
 
 Os meses passam, e Eldrin desaparece das crônicas do Império. Ele tenta se afastar da ambição, deixando para trás seus sonhos de unificação. Pela primeira vez em anos, experimenta a paz… Mas a paz não lhe pertence.
 
@@ -242,7 +242,7 @@ O exílio não é o fim. É apenas o começo de sua vingança.
 
 Ato 6: O Caminho Para o Trono
 
-Capítulo 16: O Retorno do Exilado
+### Capítulo 16: O Retorno do Exilado
 
 Eldrin retorna a Velmoria, não como o guerreiro destroçado pelo exílio, mas como um comandante forjado no fogo das adversidades. À frente de seu exército de mercenários e aliados, ele marcha pelas terras que um dia foram suas, determinado a retomá-las. Seus inimigos, confiantes de que ele jamais voltaria, subestimam sua determinação.
 
@@ -250,7 +250,7 @@ A primeira batalha é um massacre. A lenda do Senhor do Exílio se espalha como 
 
 Recuperar suas terras é apenas o prelúdio para algo muito maior. O verdadeiro inimigo ainda espera na capital e, para enfrentá-lo, Eldrin precisará de algo além de soldados e lâminas afiadas.
 
-Capítulo 17: A Batalha de Fernholm
+### Capítulo 17: A Batalha de Fernholm
 
 Entre os escombros da guerra, Eldrin faz uma descoberta que muda tudo. Vasculhando arquivos antigos, cartas esquecidas e ouvindo testemunhas silenciadas pelo medo, um segredo enterrado ressurge: ele é o último sobrevivente de uma linhagem imperial perdida.
 
@@ -262,7 +262,7 @@ O destino, porém, é cruelmente irônico. Foram os próprios conspiradores que,
 
 Agora, a verdade está diante dele. Ele nunca foi um traidor. Nunca desejou o trono. Mas o próprio império conspirou para colocá-lo nesse caminho. Antes acusado falsamente de cobiçar o poder, Eldrin agora percebe que tem o direito de reivindicá-lo. E se prepara para sua batalha final.
 
-Capítulo 18: A Coroa de Sangue
+### Capítulo 18: A Coroa de Sangue
 
 Quando Eldrin finalmente desafia o Imperador Armand I, ele ainda acredita que há esperança. Acredita que pode capturá-lo vivo, apresentar as provas e fazê-lo enxergar a verdade.
 
@@ -304,7 +304,7 @@ Isso era mesmo o que eu queria? Ou foi apenas o último passo de uma jornada que
 
 Epílogo: O Legado Amargo do Imperador
 
-Capítulo 19: Glória e Cinzas
+### Capítulo 19: Glória e Cinzas
 
 O império estava unificado, mas Velmoria ainda sangrava. Eldrin, o exilado que se tornara imperador, percebia agora que não havia vitória sem custo. Cada conquista fora pavimentada com corpos. Cada passo rumo à estabilidade exigira o sacrifício de alguém próximo.
 
@@ -334,7 +334,7 @@ Foi então que um pensamento proibido tomou forma.
 
 Talvez o problema não fossem os traidores. Talvez o problema fosse o próprio império.
 
-Capítulo 20: O Crepúsculo do Imperador
+### Capítulo 20: O Crepúsculo do Imperador
 
 A paranoia tornou-se sua única conselheira.
 
