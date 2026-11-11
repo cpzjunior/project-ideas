@@ -42,8 +42,8 @@ Caso tenha interesse em transformar alguma dessas ideias em um projeto, consider
 
 Os conteúdos são originalmente escritos em português brasileiro.
 
-- `pt-BR.md`: versão original e canônica.
-- `en.md`: tradução para o inglês.
+- `README.md`: tradução para o inglês.
+- `README.pt-BR.md`: versão original e canônica.
 
 ## Licença
 
