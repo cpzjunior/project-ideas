@@ -42,8 +42,8 @@ If you are interested in turning any of these ideas into a project, consider the
 
 The content is originally written in Brazilian Portuguese.
 
-- `pt-BR.md`: original and canonical version.
-- `en.md`: English translation.
+- `README.md`: English translation.
+- `README.pt-BR.md`: original and canonical version.
 
 ## License
 
