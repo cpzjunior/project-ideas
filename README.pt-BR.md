@@ -12,10 +12,11 @@ As ideias estão organizadas em diferentes categorias:
 
 | Categoria | Descrição |
 |---|---|
-| [`game-concepts`](game-concepts/) | Conceitos, temas e propostas para jogos. |
-| [`game-mechanics`](game-mechanics/) | Ideias de mecânicas, sistemas e experiências de jogo. |
-| [`non-profit`](non-profit/) | Iniciativas e projetos de impacto social e sem fins lucrativos. |
-| [`services`](services/) | Conceitos e propostas de serviços. |
+| [game-concepts](game-concepts/) | Conceitos, temas e propostas para jogos. |
+| [game-mechanics](game-mechanics/) | Ideias de mecânicas, sistemas e experiências de jogo. |
+| [legislative](legislative/) | Ideias e propostas de iniciativas legislativas, políticas públicas e mudanças legais ou regulatórias. |
+| [non-profit](non-profit/) | Iniciativas e projetos de impacto social e sem fins lucrativos. |
+| [services](services/) | Conceitos e propostas de serviços. |
 
 ## Filosofia
 
