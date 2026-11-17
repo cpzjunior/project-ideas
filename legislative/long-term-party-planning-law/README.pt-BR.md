@@ -1,7 +1,5 @@
 # Lei de Planejamento Partidário de Longo Prazo
 
-Status: Ideia
-
 ## 1. Ideia
 
 Criar uma lei que obrigue todos os partidos políticos a elaborarem e manterem planos estratégicos de governo com horizonte de 15 anos, explicitando suas principais prioridades, diretrizes, objetivos, metas e indicadores mensuráveis para o país.
