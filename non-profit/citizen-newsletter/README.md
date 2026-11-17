@@ -12,7 +12,7 @@ The objective is to transform passive public transparency, in which citizens mus
 
 The platform must be independent of governments, political parties, and public officials, maintaining transparent criteria for selecting, organizing, and presenting information.
 
-## Operation
+## How It Works
 
 - Citizen Registration and Preferences: creation of a personal profile in which users select the topics, agencies, entities, regions, and indicators they wish to monitor. Allows users to configure preferences for frequency, format, and channels for receiving information.
 - Public Spending Monitoring: monitoring of government expenditures, budget execution, contracts, payments, personnel expenses, per diems, travel, and other public expenditures. Allows users to monitor specific agencies and entities, identifying relevant changes in expenditure amounts and patterns.
