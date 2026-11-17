@@ -1,7 +1,5 @@
 # Sector-Based Tax Incentives Law
 
-Status: Idea
-
 ## 1. Idea
 
 Create a law establishing rules for the granting of tax incentives by the government, requiring these benefits to be directed exclusively to economic sectors rather than specific companies.
