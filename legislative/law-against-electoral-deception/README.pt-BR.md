@@ -1,7 +1,5 @@
 # Lei de Combate ao Estelionato Eleitoral
 
-Status: Ideia
-
 ## 1. Ideia
 
 Criar uma lei para estabelecer mecanismos de responsabilização de candidatos eleitos que não cumpram os principais compromissos formalmente assumidos durante suas campanhas eleitorais.
