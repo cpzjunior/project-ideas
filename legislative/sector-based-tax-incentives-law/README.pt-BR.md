@@ -1,7 +1,5 @@
 # Lei de Incentivos Fiscais Setoriais
 
-Status: Ideia
-
 ## 1. Ideia
 
 Criar uma lei que estabeleça regras para a concessão de incentivos fiscais pelo governo, determinando que esses benefícios sejam direcionados exclusivamente a setores econômicos, e não a empresas específicas.
