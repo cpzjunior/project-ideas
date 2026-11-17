@@ -14,6 +14,7 @@ Ideas are organized into different categories:
 |---|---|
 | [`game-concepts`](game-concepts/) | Concepts, themes, and proposals for games. |
 | [`game-mechanics`](game-mechanics/) | Ideas for game mechanics, systems, and gameplay experiences. |
+| [`legislative`](legislative/) | Ideas and proposals for legislative initiatives, public policies, and legal or regulatory changes. |
 | [`non-profit`](non-profit/) | Social impact and non-profit initiatives and projects. |
 | [`services`](services/) | Service concepts and proposals. |
 
