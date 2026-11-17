@@ -1,7 +1,5 @@
 # Financial Accountability for Digital Fraud Act
 
-Status: Idea Under Development
-
 ## 1. Concept
 
 Establish a law to strengthen the financial accountability of individuals and legal entities involved in digital fraud, ensuring that those responsible face economic consequences greater than the benefits obtained from the crime.
