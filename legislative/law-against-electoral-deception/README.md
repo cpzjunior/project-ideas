@@ -1,7 +1,5 @@
 # Law Against Electoral Deception
 
-Status: Idea
-
 ## 1. Idea
 
 Create a law establishing accountability mechanisms for elected candidates who fail to fulfill the main commitments formally made during their election campaigns.
