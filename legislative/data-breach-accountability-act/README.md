@@ -8,7 +8,7 @@ The proposal is based on the principle that data breaches cannot be treated mere
 
 The law must establish the following mechanisms:
 
-**1. Mandatory investigation of everyone involved**
+1. Mandatory investigation of everyone involved
 
 Every significant data breach must trigger a technical and administrative investigation to identify:
 
@@ -27,7 +27,7 @@ Every significant data breach must trigger a technical and administrative invest
 
 The investigation may not be limited to the institution's managers. It must cover all individuals whose participation, facilitation, or culpable omission is related to the incident.
 
-**2. Accountability of the individuals involved**
+2. Accountability of the individuals involved
 
 Public servants, employees of state-owned enterprises, managers, contractors, service providers, and technology suppliers must be held accountable according to their participation and culpability.
 
@@ -48,7 +48,7 @@ The law must provide for precautionary removal from duties or suspension of acce
 
 Precautionary removal will not constitute a presumption of guilt.
 
-**3. Criminal and corruption investigations**
+3. Criminal and corruption investigations
 
 Every data breach involving indications of criminal conduct must be referred to law enforcement authorities and the Public Prosecutor's Office for investigation.
 
@@ -56,7 +56,7 @@ When there is evidence of data sales, receipt of improper benefits, bribery, fav
 
 The investigation must cover all identified participants, regardless of their position, hierarchical level, or contractual relationship.
 
-**4. Institutional accountability**
+4. Institutional accountability
 
 Public bodies and private companies responsible for processing data must demonstrate that they have adopted appropriate technical and administrative measures to protect the information.
 
@@ -81,7 +81,7 @@ Institutional accountability must take into consideration:
 
 The institution's accountability will not exclude the individual liability of the agents involved when their responsibility is proven.
 
-**5. Independent reporting channel**
+5. Independent reporting channel
 
 Create a permanent channel for reporting data breaches, data sales, unauthorized access, concealment of incidents, and deliberate security failures.
 
@@ -104,7 +104,7 @@ The channel must:
 
 Protection must extend to public servants, employees, contractors, and anyone who provides information in good faith about misconduct.
 
-**6. Mandatory notification and transparency**
+6. Mandatory notification and transparency
 
 Every significant incident must be reported to the competent authorities and affected data subjects, in accordance with applicable legal criteria.
 
@@ -143,26 +143,26 @@ It also seeks to prevent accountability from being limited to senior management,
 
 ## 3. Expected benefits
 
-- **Greater individual accountability:** investigation of all agents involved, regardless of their hierarchical position.
+- Greater individual accountability: investigation of all agents involved, regardless of their hierarchical position.
     
-- **Data breach prevention:** incentives to adopt stricter technical and administrative controls.
+- Data breach prevention: incentives to adopt stricter technical and administrative controls.
     
-- **Combating corruption:** identification of potential schemes involving the sale, commercialization, or improper use of confidential information.
+- Combating corruption: identification of potential schemes involving the sale, commercialization, or improper use of confidential information.
     
-- **Citizen protection:** reduction of fraud and scam risks resulting from data exposure.
+- Citizen protection: reduction of fraud and scam risks resulting from data exposure.
     
-- **Transparency:** greater clarity regarding the scale of incidents and the measures taken.
+- Transparency: greater clarity regarding the scale of incidents and the measures taken.
     
-- **Whistleblower protection:** encouragement to report misconduct without the risk of retaliation.
+- Whistleblower protection: encouragement to report misconduct without the risk of retaliation.
     
-- **Institutional accountability:** incentives to maintain appropriate information security structures.
+- Institutional accountability: incentives to maintain appropriate information security structures.
     
-- **Strengthening public trust:** stricter protection of information held by the State.
+- Strengthening public trust: stricter protection of information held by the State.
     
 
 ## 4. Potential impacts
 
-**Positive impacts:**
+Positive impacts:
 
 - Reduced negligence in the management of sensitive information.
     
@@ -179,7 +179,7 @@ It also seeks to prevent accountability from being limited to senior management,
 - Strengthening of internal and external oversight mechanisms.
     
 
-**Operational and legal impacts:**
+Operational and legal impacts:
 
 - Need for specialized digital investigation and forensic analysis teams.
     
@@ -202,27 +202,27 @@ The proposal must complement Law No. 13,709/2018 (LGPD), Law No. 12,527/2011 (Ac
 
 The main challenges are:
 
-- **Identification of those responsible:** establishing mandatory logging and auditing mechanisms to identify data access, queries, transfers, and modifications.
+- Identification of those responsible: establishing mandatory logging and auditing mechanisms to identify data access, queries, transfers, and modifications.
     
-- **Independent investigation:** ensuring that incidents involving public bodies can be investigated by entities independent of the directly involved organizational structure.
+- Independent investigation: ensuring that incidents involving public bodies can be investigated by entities independent of the directly involved organizational structure.
     
-- **Individual accountability:** distinguishing intentional misconduct, negligence, unavoidable technical failures, and incidents resulting from external attacks without culpable contribution by the agents involved.
+- Individual accountability: distinguishing intentional misconduct, negligence, unavoidable technical failures, and incidents resulting from external attacks without culpable contribution by the agents involved.
     
-- **Precautionary removal:** establishing objective criteria for temporarily suspending access or removing individuals from their duties during an investigation.
+- Precautionary removal: establishing objective criteria for temporarily suspending access or removing individuals from their duties during an investigation.
     
-- **Removal and dismissal:** defining procedures according to the employment or public service relationship, while respecting due process of law and applicable guarantees.
+- Removal and dismissal: defining procedures according to the employment or public service relationship, while respecting due process of law and applicable guarantees.
     
-- **Criminal accountability:** establishing mandatory referral to the competent authorities when there is evidence of a crime, including possible corruption, sale of information, and breach of confidentiality.
+- Criminal accountability: establishing mandatory referral to the competent authorities when there is evidence of a crime, including possible corruption, sale of information, and breach of confidentiality.
     
-- **Incident notification:** establishing deadlines and procedures consistent with the LGPD and ANPD regulations, preventing omissions and unjustified delays.
+- Incident notification: establishing deadlines and procedures consistent with the LGPD and ANPD regulations, preventing omissions and unjustified delays.
     
-- **Whistleblower protection:** ensuring confidentiality, protection against retaliation, and secure mechanisms for submitting evidence.
+- Whistleblower protection: ensuring confidentiality, protection against retaliation, and secure mechanisms for submitting evidence.
     
-- **Contractors and suppliers:** requiring contractual clauses covering security, traceability, auditing, and accountability.
+- Contractors and suppliers: requiring contractual clauses covering security, traceability, auditing, and accountability.
     
-- **Preservation of evidence:** establishing procedures for retaining records, images, logs, and other digital evidence.
+- Preservation of evidence: establishing procedures for retaining records, images, logs, and other digital evidence.
     
-- **Data protection:** ensuring that investigations have a defined scope and comply with legal limits on access to personal and confidential information.
+- Data protection: ensuring that investigations have a defined scope and comply with legal limits on access to personal and confidential information.
     
 
 Investigations must cover all agents for whom there is evidence of involvement, but the imposition of sanctions will depend on proof of each individual's conduct and responsibility.
