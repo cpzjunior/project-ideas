@@ -1,7 +1,5 @@
 # Modernização do FGTS como instrumento de proteção financeira e poupança
 
-Status: Ideia inicial
-
 ## 1. Ideia
 
 Modernizar o FGTS, mantendo sua função de proteção financeira e financiamento habitacional, mas ampliando sua flexibilidade, atratividade e alcance.
