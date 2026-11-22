@@ -104,23 +104,23 @@ The proposal therefore seeks to transform peace and neutrality into strategic ad
 
 ## 3. Expected Benefits
 
-- **Reduced risk of military conflicts:** institutional commitment not to initiate offensive wars.
-- **Strengthened diplomacy:** prioritization of peaceful mechanisms for resolving international disputes.
-- **Economic deterrence:** creation of shared financial and productive interests among South American countries.
-- **Regional integration:** increased economic, technological, energy, and logistical cooperation.
-- **Attraction of international investments:** strengthening South America's image as a region of stability.
-- **Attraction of skilled professionals:** creation of conditions to welcome people seeking environments less exposed to international conflicts.
-- **Geopolitical autonomy:** reduced Brazilian dependence on major powers.
-- **Trade diversification:** expansion of economic relations with different international blocs.
-- **Energy and food security:** encouragement of regional cooperation in strategic sectors.
-- **Technological development:** promotion of joint research, innovation, and industrial production projects.
-- **Institutional predictability:** reduced risks of abrupt changes in the country's international orientation.
-- **Strengthening of national sovereignty:** preservation of Brazil's ability to make independent decisions.
-- **Enhanced international standing of Brazil:** positioning as a defender of peace, cooperation, and international stability.
+- Reduced risk of military conflicts: institutional commitment not to initiate offensive wars.
+- Strengthened diplomacy: prioritization of peaceful mechanisms for resolving international disputes.
+- Economic deterrence: creation of shared financial and productive interests among South American countries.
+- Regional integration: increased economic, technological, energy, and logistical cooperation.
+- Attraction of international investments: strengthening South America's image as a region of stability.
+- Attraction of skilled professionals: creation of conditions to welcome people seeking environments less exposed to international conflicts.
+- Geopolitical autonomy: reduced Brazilian dependence on major powers.
+- Trade diversification: expansion of economic relations with different international blocs.
+- Energy and food security: encouragement of regional cooperation in strategic sectors.
+- Technological development: promotion of joint research, innovation, and industrial production projects.
+- Institutional predictability: reduced risks of abrupt changes in the country's international orientation.
+- Strengthening of national sovereignty: preservation of Brazil's ability to make independent decisions.
+- Enhanced international standing of Brazil: positioning as a defender of peace, cooperation, and international stability.
 
 ## 4. Potential Impacts
 
-**Positive impacts:**
+Positive impacts:
 
 - Reduced likelihood of Brazilian involvement in offensive wars.
 - Greater stability in diplomatic relations with neighboring countries.
@@ -135,7 +135,7 @@ The proposal therefore seeks to transform peace and neutrality into strategic ad
 - Greater international negotiating capacity through regional cooperation.
 - Strengthening of Brazil's position as an independent diplomatic interlocutor.
 
-**Negative impacts or risks:**
+Negative impacts or risks:
 
 - Possibility of reduced diplomatic response capabilities in situations requiring firmer international positions.
 - Risk that neutrality may be interpreted as inaction in the face of international aggression.
@@ -156,33 +156,33 @@ The Brazilian initiative may establish national principles and mechanisms for th
 
 The main challenges are:
 
-- **Legal certainty:** establishing institutional commitments sufficiently durable to prevent changes in government from constantly altering Brazil's strategic orientation.
+- Legal certainty: establishing institutional commitments sufficiently durable to prevent changes in government from constantly altering Brazil's strategic orientation.
 
-- **Constitutional compatibility:** assessing the need for constitutional amendments or supplementary regulations, particularly regarding powers related to declarations of war, national defense, and the conclusion of treaties.
+- Constitutional compatibility: assessing the need for constitutional amendments or supplementary regulations, particularly regarding powers related to declarations of war, national defense, and the conclusion of treaties.
 
-- **Non-aggression treaty:** negotiating international instruments that establish reciprocal commitments to non-aggression while preserving the right to legitimate self-defense and existing international obligations.
+- Non-aggression treaty: negotiating international instruments that establish reciprocal commitments to non-aggression while preserving the right to legitimate self-defense and existing international obligations.
 
-- **Definition of neutrality:** establishing objective criteria to distinguish strategic neutrality, military non-alignment, and participation in international cooperation initiatives.
+- Definition of neutrality: establishing objective criteria to distinguish strategic neutrality, military non-alignment, and participation in international cooperation initiatives.
 
-- **Balance among major powers:** developing criteria to assess the equivalence of conditions in commercial, financial, and technological agreements without compromising Brazil's freedom to negotiate.
+- Balance among major powers: developing criteria to assess the equivalence of conditions in commercial, financial, and technological agreements without compromising Brazil's freedom to negotiate.
 
-- **Reciprocal investments:** establishing mechanisms to identify, finance, and monitor investments made among participating countries.
+- Reciprocal investments: establishing mechanisms to identify, finance, and monitor investments made among participating countries.
 
-- **Financial governance:** defining the administrative and financial structure of a potential regional fund, including participation rules, auditing, management of risks, and transparency.
+- Financial governance: defining the administrative and financial structure of a potential regional fund, including participation rules, auditing, management of risks, and transparency.
 
-- **Investment protection:** establishing guarantees against arbitrary expropriations, contractual breaches, and unilateral changes that harm shared projects.
+- Investment protection: establishing guarantees against arbitrary expropriations, contractual breaches, and unilateral changes that harm shared projects.
 
-- **Economic asymmetry:** developing mechanisms that allow countries with different economic capabilities to participate, preventing the requirement for equivalent investments from hindering smaller nations' participation.
+- Economic asymmetry: developing mechanisms that allow countries with different economic capabilities to participate, preventing the requirement for equivalent investments from hindering smaller nations' participation.
 
-- **Conflict prevention:** establishing permanent consultation, mediation, and arbitration mechanisms to resolve disputes among participating countries.
+- Conflict prevention: establishing permanent consultation, mediation, and arbitration mechanisms to resolve disputes among participating countries.
 
-- **Strategic autonomy:** reducing external dependencies in sectors such as energy, defense, technology, telecommunications, infrastructure, and industrial production.
+- Strategic autonomy: reducing external dependencies in sectors such as energy, defense, technology, telecommunications, infrastructure, and industrial production.
 
-- **International credibility:** demonstrating that the neutrality policy represents an effective institutional commitment rather than merely a temporary diplomatic orientation.
+- International credibility: demonstrating that the neutrality policy represents an effective institutional commitment rather than merely a temporary diplomatic orientation.
 
-- **Regional accession:** negotiating the participation of other South American countries, preferably through multilateral mechanisms that allow gradual accession.
+- Regional accession: negotiating the participation of other South American countries, preferably through multilateral mechanisms that allow gradual accession.
 
-- **Compatibility with existing commitments:** assessing the relationship between the proposal and international agreements to which Brazil is already a party, including Mercosur, the UN, and the Inter-American Treaty of Reciprocal Assistance.
+- Compatibility with existing commitments: assessing the relationship between the proposal and international agreements to which Brazil is already a party, including Mercosur, the UN, and the Inter-American Treaty of Reciprocal Assistance.
 
 Implementation must take place gradually, beginning with the establishment of Brazil's commitments to non-aggression and strategic neutrality, followed by the negotiation of regional cooperation agreements and reciprocal investments.
 
@@ -214,17 +214,13 @@ It will also be necessary to distinguish strategic neutrality from legal neutral
 
 ## 7. References
 
-- **Federal Constitution of 1988:** particularly Article 4, which establishes the principles governing Brazilian international relations, including national independence, the defense of peace, peaceful settlement of disputes, non-intervention, and cooperation among peoples.
-- **United Nations Charter:** establishes principles related to the prohibition of the use of force in international relations, the peaceful settlement of disputes, and the right to legitimate self-defense.
-- **Treaty of Asunción (1991):** instrument establishing Mercosur, setting out objectives for regional economic integration.
-- **Treaty of Brasília (2008):** founding instrument of the Union of South American Nations (UNASUR), which established mechanisms for regional integration and cooperation.
-- **Inter-American Treaty of Reciprocal Assistance (1947):** instrument for reciprocal assistance and collective defense within the inter-American framework.
-- **United Nations (UN):** institutional reference for the principles of peace, international security, and peaceful settlement of disputes.
-- **Mercosur:** regional economic integration framework, with mechanisms for trade and institutional cooperation.
-- **Development Bank of Latin America and the Caribbean (CAF):** multilateral financial institution focused on financing development and regional integration.
-- **New Development Bank (NDB):** multilateral financial institution established by BRICS countries, serving as a reference for financing infrastructure and development.
-- **Inter-American Development Bank (IDB):** multilateral institution financing economic and social development projects in Latin America and the Caribbean.
-
----
-
-**Core concept of the proposal:** transform South America into a region of peace, geopolitical neutrality, and shared economic prosperity, capable of maintaining balanced relations with all major powers and positioning itself internationally as a safe environment for people, businesses, and investments, even during periods of global instability.
+- Federal Constitution of 1988: particularly Article 4, which establishes the principles governing Brazilian international relations, including national independence, the defense of peace, peaceful settlement of disputes, non-intervention, and cooperation among peoples.
+- United Nations Charter: establishes principles related to the prohibition of the use of force in international relations, the peaceful settlement of disputes, and the right to legitimate self-defense.
+- Treaty of Asunción (1991): instrument establishing Mercosur, setting out objectives for regional economic integration.
+- Treaty of Brasília (2008): founding instrument of the Union of South American Nations (UNASUR), which established mechanisms for regional integration and cooperation.
+- Inter-American Treaty of Reciprocal Assistance (1947): instrument for reciprocal assistance and collective defense within the inter-American framework.
+- United Nations (UN): institutional reference for the principles of peace, international security, and peaceful settlement of disputes.
+- Mercosur: regional economic integration framework, with mechanisms for trade and institutional cooperation.
+- Development Bank of Latin America and the Caribbean (CAF): multilateral financial institution focused on financing development and regional integration.
+- New Development Bank (NDB): multilateral financial institution established by BRICS countries, serving as a reference for financing infrastructure and development.
+- Inter-American Development Bank (IDB): multilateral institution financing economic and social development projects in Latin America and the Caribbean.
