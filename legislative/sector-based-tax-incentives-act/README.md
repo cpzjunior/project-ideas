@@ -1,4 +1,4 @@
-# Sector-Based Tax Incentives Law
+# Sector-Based Tax Incentives Act
 
 ## 1. Idea
 
